@@ -1,4 +1,4 @@
-# you should probably do these things
+# you should probably watch these first
 
 [tutorial on installing manimce on windows](https://www.youtube.com/watch?v=ib-I3ayqFaw) 
 
